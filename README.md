@@ -3,7 +3,7 @@
 ## :memo: Description
 Desafio pessoal.
 
-Obejetivo era fazer uma todo-list com troca de temas, entre tema claro e tema escuro, e utilizando de drag and drop, 
+Eu criei uma todo-list com troca de temas, entre tema claro e tema escuro, e utilizando de drag and drop, 
 também utilizando do hook useReducer para fazer o controle de estado e uso de cookies para salvar as tarefas adicionadas 
 e também salvar o tema
 
