@@ -21,7 +21,7 @@ Site deles: https://www.frontendmentor.io
 
 ## :rocket: Run project
 ```
-https://todo-list-flame-two.vercel.app
+https://fe-todo-list-next.vercel.app
 ```
 
 <br>
