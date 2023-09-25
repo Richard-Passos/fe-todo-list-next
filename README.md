@@ -1,10 +1,14 @@
 <h1 align="center">:file_cabinet: Todo list</h1>
 
+<br>
+
 ## :memo: Description
 Criei um website para ajudar na organização das tarefas diárias, com a possibilidade de usar o recurso de drag and drop, para uma melhor organização, e troca de temas. Utilizei cookies para salvar as tarefas e o tema escolhido, e também utilizei o useReducer para fazer o controle de estado. O website permite uma gestão mais eficiente das tarefas diárias, tornando mais fácil e prático acompanhar as atividades ao longo do dia.
 
 Ideia e design foram disponibilizados por: Frontend Mentor.
 Site deles: https://www.frontendmentor.io
+
+<br>
 
 ## :wrench: Technologies used
 * NextJS
@@ -13,11 +17,14 @@ Site deles: https://www.frontendmentor.io
 * dnd-kit
 * nookies
 
-## :rocket: Running the project
-### To run the repository, it is recommended to access:
+<br>
+
+## :rocket: Run project
 ```
 https://todo-list-flame-two.vercel.app
 ```
+
+<br>
 
 ## :handshake: Team
 <table>
@@ -33,5 +40,7 @@ https://todo-list-flame-two.vercel.app
   </tr>
 </table>
 
-## :dart: Project status
+<br>
+
+## :dart: Status
 Finished
