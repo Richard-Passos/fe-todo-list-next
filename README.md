@@ -18,7 +18,7 @@ Site deles: https://www.frontendmentor.io
 * nookies
 
 ## :rocket: Running the project
-To run the repository, it is recommended to access:
+### To run the repository, it is recommended to access:
 ```
 https://todo-list-flame-two.vercel.app
 ```
